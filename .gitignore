@@ -1,0 +1,28 @@
+# Чувствительные данные
+.env
+secrets.yaml
+credentials.json
+
+# Node-RED
+.node-red/
+node_modules/
+flows_cred.json
+
+# Home Assistant
+.storage/
+.cloud/
+.google.token
+known_devices.yaml
+secrets.yaml
+
+# Временные файлы
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo 
