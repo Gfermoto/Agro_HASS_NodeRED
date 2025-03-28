@@ -76,7 +76,7 @@ lawn-irrigation/
 │   │   └── wfc01.yaml    # Конфигурация контроллера полива
 │   └── lovelace/
 │       └── button.yaml    # Карточка управления поливом
-├── config.example.yaml    # Пример конфигурации
+├── config.example.yaml    # Переменные конфигурации
 └── docs/
     └── setup.md          # Подробные инструкции по установке
 ```
